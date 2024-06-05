@@ -19,7 +19,7 @@ const ConversationDetail = () =>{
             <div className="mt-4 py-4 px-6 flex border border-gray-300 space-x-4 rounded-full">
                 <input type="text" placeholder="Type your message..." className="w-full p-2 bg-bray-200 rounded-xl"/>
 
-                <CustomButton label="Send" onClick={()=>{}}/>
+                <CustomButton label="Send" onClick={()=>{}} className="w-[100px]"/>
             </div>
         </>
     )
