@@ -9,5 +9,6 @@ export default function Home() {
         <PropertyList />
       </div>
     </main>
+    
   );
 }
